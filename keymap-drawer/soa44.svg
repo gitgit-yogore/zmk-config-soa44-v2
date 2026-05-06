@@ -323,30 +323,6 @@ path.combo {
 <a href="#ARROW">
 <text x="0" y="24" class="key hold layer-activator">ARROW</text>
 </a></g>
-<g class="combo combopos-0">
-<path d="M416,56 l354,-26" class="combo"/>
-<path d="M416,56 l-358,26" class="combo"/>
-<rect rx="6" ry="6" x="402" y="43" width="28" height="26" class="combo"/>
-<text x="416" y="56" class="combo tap">TAB</text>
-</g>
-<g class="combo combopos-1">
-<rect rx="6" ry="6" x="52" y="71" width="28" height="26" class="combo"/>
-<text x="66" y="84" class="combo tap">Sft+TAB</text>
-</g>
-<g class="combo combopos-2">
-<rect rx="6" ry="6" x="749" y="15" width="28" height="26" class="combo"/>
-<text x="763" y="28" class="combo tap">
-<tspan x="763" dy="-0.6em" style="font-size: 64%">&amp;to_layer_0</tspan><tspan x="763" dy="1.2em" style="font-size: 64%">INT_MUHENK…</tspan>
-</text>
-</g>
-<g class="combo combopos-3">
-<rect rx="6" ry="6" x="644" y="71" width="28" height="26" class="combo"/>
-<text x="658" y="84" class="combo tap">&quot;</text>
-</g>
-<g class="combo combopos-4">
-<rect rx="6" ry="6" x="74" y="127" width="28" height="26" class="combo"/>
-<text x="88" y="140" class="combo tap">=</text>
-</g>
 </g>
 </g>
 <g transform="translate(30, 280)" class="layer-MOUSE">
@@ -540,30 +516,6 @@ path.combo {
 <rect rx="6" ry="6" x="-33" y="-26" width="66" height="52" class="key trans"/>
 <text x="0" y="0" class="key trans tap">▽</text>
 </g>
-<g class="combo combopos-0">
-<path d="M416,56 l354,-26" class="combo"/>
-<path d="M416,56 l-358,26" class="combo"/>
-<rect rx="6" ry="6" x="402" y="43" width="28" height="26" class="combo"/>
-<text x="416" y="56" class="combo tap">TAB</text>
-</g>
-<g class="combo combopos-1">
-<rect rx="6" ry="6" x="52" y="71" width="28" height="26" class="combo"/>
-<text x="66" y="84" class="combo tap">Sft+TAB</text>
-</g>
-<g class="combo combopos-2">
-<rect rx="6" ry="6" x="749" y="15" width="28" height="26" class="combo"/>
-<text x="763" y="28" class="combo tap">
-<tspan x="763" dy="-0.6em" style="font-size: 64%">&amp;to_layer_0</tspan><tspan x="763" dy="1.2em" style="font-size: 64%">INT_MUHENK…</tspan>
-</text>
-</g>
-<g class="combo combopos-3">
-<rect rx="6" ry="6" x="644" y="71" width="28" height="26" class="combo"/>
-<text x="658" y="84" class="combo tap">&quot;</text>
-</g>
-<g class="combo combopos-4">
-<rect rx="6" ry="6" x="74" y="127" width="28" height="26" class="combo"/>
-<text x="88" y="140" class="combo tap">=</text>
-</g>
 </g>
 </g>
 <g transform="translate(30, 560)" class="layer-FUNCTION">
@@ -744,30 +696,6 @@ path.combo {
 <rect rx="6" ry="6" x="-33" y="-26" width="66" height="52" class="key trans"/>
 <text x="0" y="0" class="key trans tap">▽</text>
 </g>
-<g class="combo combopos-0">
-<path d="M416,56 l354,-26" class="combo"/>
-<path d="M416,56 l-358,26" class="combo"/>
-<rect rx="6" ry="6" x="402" y="43" width="28" height="26" class="combo"/>
-<text x="416" y="56" class="combo tap">TAB</text>
-</g>
-<g class="combo combopos-1">
-<rect rx="6" ry="6" x="52" y="71" width="28" height="26" class="combo"/>
-<text x="66" y="84" class="combo tap">Sft+TAB</text>
-</g>
-<g class="combo combopos-2">
-<rect rx="6" ry="6" x="749" y="15" width="28" height="26" class="combo"/>
-<text x="763" y="28" class="combo tap">
-<tspan x="763" dy="-0.6em" style="font-size: 64%">&amp;to_layer_0</tspan><tspan x="763" dy="1.2em" style="font-size: 64%">INT_MUHENK…</tspan>
-</text>
-</g>
-<g class="combo combopos-3">
-<rect rx="6" ry="6" x="644" y="71" width="28" height="26" class="combo"/>
-<text x="658" y="84" class="combo tap">&quot;</text>
-</g>
-<g class="combo combopos-4">
-<rect rx="6" ry="6" x="74" y="127" width="28" height="26" class="combo"/>
-<text x="88" y="140" class="combo tap">=</text>
-</g>
 </g>
 </g>
 <g transform="translate(30, 840)" class="layer-NUM">
@@ -947,30 +875,6 @@ path.combo {
 <g transform="translate(735, 196)" class="key keypos-43">
 <rect rx="6" ry="6" x="-33" y="-26" width="66" height="52" class="key"/>
 <text x="0" y="0" class="key tap">.</text>
-</g>
-<g class="combo combopos-0">
-<path d="M416,56 l354,-26" class="combo"/>
-<path d="M416,56 l-358,26" class="combo"/>
-<rect rx="6" ry="6" x="402" y="43" width="28" height="26" class="combo"/>
-<text x="416" y="56" class="combo tap">TAB</text>
-</g>
-<g class="combo combopos-1">
-<rect rx="6" ry="6" x="52" y="71" width="28" height="26" class="combo"/>
-<text x="66" y="84" class="combo tap">Sft+TAB</text>
-</g>
-<g class="combo combopos-2">
-<rect rx="6" ry="6" x="749" y="15" width="28" height="26" class="combo"/>
-<text x="763" y="28" class="combo tap">
-<tspan x="763" dy="-0.6em" style="font-size: 64%">&amp;to_layer_0</tspan><tspan x="763" dy="1.2em" style="font-size: 64%">INT_MUHENK…</tspan>
-</text>
-</g>
-<g class="combo combopos-3">
-<rect rx="6" ry="6" x="644" y="71" width="28" height="26" class="combo"/>
-<text x="658" y="84" class="combo tap">&quot;</text>
-</g>
-<g class="combo combopos-4">
-<rect rx="6" ry="6" x="74" y="127" width="28" height="26" class="combo"/>
-<text x="88" y="140" class="combo tap">=</text>
 </g>
 </g>
 </g>
@@ -1168,30 +1072,6 @@ path.combo {
 <g transform="translate(735, 196)" class="key held keypos-43">
 <rect rx="6" ry="6" x="-33" y="-26" width="66" height="52" class="key held"/>
 </g>
-<g class="combo combopos-0">
-<path d="M416,56 l354,-26" class="combo"/>
-<path d="M416,56 l-358,26" class="combo"/>
-<rect rx="6" ry="6" x="402" y="43" width="28" height="26" class="combo"/>
-<text x="416" y="56" class="combo tap">TAB</text>
-</g>
-<g class="combo combopos-1">
-<rect rx="6" ry="6" x="52" y="71" width="28" height="26" class="combo"/>
-<text x="66" y="84" class="combo tap">Sft+TAB</text>
-</g>
-<g class="combo combopos-2">
-<rect rx="6" ry="6" x="749" y="15" width="28" height="26" class="combo"/>
-<text x="763" y="28" class="combo tap">
-<tspan x="763" dy="-0.6em" style="font-size: 64%">&amp;to_layer_0</tspan><tspan x="763" dy="1.2em" style="font-size: 64%">INT_MUHENK…</tspan>
-</text>
-</g>
-<g class="combo combopos-3">
-<rect rx="6" ry="6" x="644" y="71" width="28" height="26" class="combo"/>
-<text x="658" y="84" class="combo tap">&quot;</text>
-</g>
-<g class="combo combopos-4">
-<rect rx="6" ry="6" x="74" y="127" width="28" height="26" class="combo"/>
-<text x="88" y="140" class="combo tap">=</text>
-</g>
 </g>
 </g>
 <g transform="translate(30, 1400)" class="layer-SCROLL">
@@ -1371,30 +1251,6 @@ path.combo {
 <g transform="translate(735, 196)" class="key trans keypos-43">
 <rect rx="6" ry="6" x="-33" y="-26" width="66" height="52" class="key trans"/>
 <text x="0" y="0" class="key trans tap">▽</text>
-</g>
-<g class="combo combopos-0">
-<path d="M416,56 l354,-26" class="combo"/>
-<path d="M416,56 l-358,26" class="combo"/>
-<rect rx="6" ry="6" x="402" y="43" width="28" height="26" class="combo"/>
-<text x="416" y="56" class="combo tap">TAB</text>
-</g>
-<g class="combo combopos-1">
-<rect rx="6" ry="6" x="52" y="71" width="28" height="26" class="combo"/>
-<text x="66" y="84" class="combo tap">Sft+TAB</text>
-</g>
-<g class="combo combopos-2">
-<rect rx="6" ry="6" x="749" y="15" width="28" height="26" class="combo"/>
-<text x="763" y="28" class="combo tap">
-<tspan x="763" dy="-0.6em" style="font-size: 64%">&amp;to_layer_0</tspan><tspan x="763" dy="1.2em" style="font-size: 64%">INT_MUHENK…</tspan>
-</text>
-</g>
-<g class="combo combopos-3">
-<rect rx="6" ry="6" x="644" y="71" width="28" height="26" class="combo"/>
-<text x="658" y="84" class="combo tap">&quot;</text>
-</g>
-<g class="combo combopos-4">
-<rect rx="6" ry="6" x="74" y="127" width="28" height="26" class="combo"/>
-<text x="88" y="140" class="combo tap">=</text>
 </g>
 </g>
 </g>
@@ -1584,30 +1440,6 @@ path.combo {
 <text x="0" y="0" class="key tap">
 <tspan x="0" dy="-1.2em">BT</tspan><tspan x="0" dy="1.2em">CLR</tspan><tspan x="0" dy="1.2em">ALL</tspan>
 </text>
-</g>
-<g class="combo combopos-0">
-<path d="M416,56 l354,-26" class="combo"/>
-<path d="M416,56 l-358,26" class="combo"/>
-<rect rx="6" ry="6" x="402" y="43" width="28" height="26" class="combo"/>
-<text x="416" y="56" class="combo tap">TAB</text>
-</g>
-<g class="combo combopos-1">
-<rect rx="6" ry="6" x="52" y="71" width="28" height="26" class="combo"/>
-<text x="66" y="84" class="combo tap">Sft+TAB</text>
-</g>
-<g class="combo combopos-2">
-<rect rx="6" ry="6" x="749" y="15" width="28" height="26" class="combo"/>
-<text x="763" y="28" class="combo tap">
-<tspan x="763" dy="-0.6em" style="font-size: 64%">&amp;to_layer_0</tspan><tspan x="763" dy="1.2em" style="font-size: 64%">INT_MUHENK…</tspan>
-</text>
-</g>
-<g class="combo combopos-3">
-<rect rx="6" ry="6" x="644" y="71" width="28" height="26" class="combo"/>
-<text x="658" y="84" class="combo tap">&quot;</text>
-</g>
-<g class="combo combopos-4">
-<rect rx="6" ry="6" x="74" y="127" width="28" height="26" class="combo"/>
-<text x="88" y="140" class="combo tap">=</text>
 </g>
 </g>
 </g>
