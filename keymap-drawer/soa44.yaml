@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: soa44}
 layers:
   default:
-  - ESCAPE
+  - TAB
   - Q
   - W
   - E
@@ -12,8 +12,8 @@ layers:
   - I
   - O
   - P
-  - BACKSPACE
-  - {t: TAB, h: LCTRL}
+  - '-'
+  - LCTRL
   - A
   - S
   - D
@@ -23,28 +23,28 @@ layers:
   - J
   - K
   - L
-  - {t: '-', h: SCROLL}
-  - '='
+  - {t: ;, h: SCROLL}
+  - ''''
   - LEFT SHIFT
   - Z
   - X
   - C
   - V
   - B
-  - ''''
   - N
   - M
   - ','
   - .
   - /
-  - LEFT WIN
+  - \
   - LEFT ALT
-  - {t: DELETE, h: Bluetooth}
+  - LEFT GUI
+  - {t: LANG1, h: Bluetooth}
   - {t: SPACE, h: NUM}
   - {t: LANGUAGE 2, h: FUNCTION}
-  - {t: LANGUAGE 1, h: NUM}
-  - {t: ENTER, h: FUNCTION}
-  - ;
+  - {t: BACKSPACE, h: NUM}
+  - ENTER
+  - {t: ESCAPE, h: ARROW}
   MOUSE:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -102,7 +102,7 @@ layers:
   - '*'
   - (
   - )
-  - {t: ▽, type: trans}
+  - '='
   - {t: ▽, type: trans}
   - F1
   - F2
@@ -114,7 +114,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - \
   - {t: ▽, type: trans}
   - F6
   - F7
@@ -132,7 +132,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
+  - DEL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   NUM:
@@ -183,9 +183,7 @@ layers:
   ARROW:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - UP
-  - {t: ▽, type: trans}
+  - UP ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -193,16 +191,20 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - UP ARROW
+  - PAGE UP
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - LEFT
-  - DOWN
+  - LEFT ARROW
+  - DOWN ARROW
   - RIGHT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - LEFT ARROW
+  - RIGHT
+  - PAGE DOWN
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -212,6 +214,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - HOME
+  - DOWN ARROW
+  - END
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -219,12 +224,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   SCROLL:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
