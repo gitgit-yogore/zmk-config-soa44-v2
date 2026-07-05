@@ -36,10 +36,10 @@ layers:
   - ','
   - .
   - /
-  - \
+  - {t: \, h: Bluetooth}
   - LEFT ALT
   - LEFT GUI
-  - {t: LANG1, h: Bluetooth}
+  - {t: LANG1, h: MOUSE}
   - {t: SPACE, h: NUM}
   - {t: LANGUAGE 2, h: FUNCTION}
   - {t: BACKSPACE, h: NUM}
@@ -84,7 +84,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -306,10 +306,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - BT CLR
+  - {t: BT CLR, type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
