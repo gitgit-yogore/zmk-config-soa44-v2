@@ -98,10 +98,11 @@
         reg = <0>;
         spi-max-frequency = <2000000>;
         irq-gpios = <&gpio1 1 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>;
-        evt-type = <2>;  // INPUT_EV_REL
+        res-pci = <800>;
+evt-type = <2>;  // INPUT_EV_REL
         x-input-code = <0>;  // INPUT_REL_X
         y-input-code = <1>;  // INPUT_REL_Y
-        cpi = <800>;
+        cpi = <600>;
         invert-y;
         force-awake;
         wakeup-source;
